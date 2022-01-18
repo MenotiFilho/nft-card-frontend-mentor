@@ -1,2 +1,2 @@
-# nft-card-frontend-mentor
+# NFT CARD FROM FRONTEND MENTOR
 CARD MADE FOR FRONTEND MENTOR
